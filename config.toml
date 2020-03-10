@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://upbeat-newton-32841a.netlify.com/"
 languageCode = "en-us"
 title = "(if) {...} else"
 theme = "ghostwriter"
