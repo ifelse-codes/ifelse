@@ -2,7 +2,8 @@
 title: "How to Save Web Page as Pdf in Node Js"
 date: 2020-03-26T01:44:37+05:30
 draft: false
-
+tags:
+- NodeJs
 ---
 
 We can use `puppeteer` to save any webpage as `pdf` file.

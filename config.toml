@@ -2,3 +2,7 @@ baseURL = "https://upbeat-newton-32841a.netlify.com/"
 languageCode = "en-us"
 title = "(if) {...} else"
 theme = "ghostwriter"
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
