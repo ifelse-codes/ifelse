@@ -11,16 +11,16 @@ We can use `puppeteer` to save any webpage as `pdf` file.
 `puppeteer` is a node js library to work with `headless chrome`.
 
 
-##### In this example we'll save content of [this post](https://ifelse.codes/how-to-save-web-page-as-pdf-in-node-js/) to disk. 
+##### In this example we'll save content of [this post](https://ifelse.codes/posts/how-to-save-web-page-as-pdf-in-node-js/) as pdf to disk. 
 
-###### Step-1 Install puppeteer 
+###### Step-1 Install Puppeteer 
 ```
 npm i puppeteer --save
 ```
-This will install Puppeteer.
-It downloads a recent version of Chromium that is guaranteed to work with the API. 
+It will install Puppeteer.
+It also downloads a recent version of Chromium that is guaranteed to work with the API. 
 
-###### Step-2 Script To Save webpage as PDF file
+###### Step-2 Script To Save Webpage As PDF File
 ```
 const puppeteer = require('puppeteer'); 
 (async () => {
