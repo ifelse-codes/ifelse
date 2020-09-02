@@ -37,3 +37,5 @@ Execute the script on command line with
 ```
 node to_pdf.js
 ```
+
+try `this` (https://ifelse.codes/posts/how-to-save-web-page-as-pdf-in-node-js/) tutorial aswell
