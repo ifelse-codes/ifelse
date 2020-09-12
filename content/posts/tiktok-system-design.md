@@ -6,6 +6,7 @@ tags:
 - SystemDesign
 - TikTok
 - DistributedSystems
+- VideoSharingPlatform
 ---
 
 Tiktok is most popular micro video sharing platform.
