@@ -5,7 +5,7 @@ draft: false
 tags:
 - SystemDesign
 - TikTok
-- DistributedSystems
+- Distributed Systems
 - VideoSharingPlatform
 ---
 
